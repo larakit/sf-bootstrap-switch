@@ -1,0 +1,20 @@
+{
+    "name": "larakit/sf-bootstrap-switch",
+    "description": "[Larakit][lk-staticfiles] http://www.bootstrap-switch.org/",
+    "license": "MIT",
+    "version": "3.3.2",
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],    
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}

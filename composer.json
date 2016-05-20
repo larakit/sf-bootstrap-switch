@@ -10,7 +10,7 @@
         }
     ],    
     "require": {
-        "larakit/lk-staticfiles": "*"
+        "larakit/sf-bootstrap": "*"
     },
     "autoload": {
         "files": [
